@@ -1,5 +1,8 @@
 .container-fluid{
     display: flex;
-    flex-wrap: wrap;
+}
+img{
+    width: 30px;
+    height: 30px;
 }
 /* Your CSS Code here. */
